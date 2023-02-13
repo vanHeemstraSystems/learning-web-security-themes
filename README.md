@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-security-themes/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-security-themes/actions/workflows/publish.yml)
+
 learning-security-themes
 # Learning Security - Themes
 
