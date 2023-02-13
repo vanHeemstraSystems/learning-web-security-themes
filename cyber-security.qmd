@@ -8,7 +8,7 @@ We base our Theme: Master Cyber Security on Planning a [Minimum Viable Nothing (
 
 ## 2. Find the **Opportunities**.
 
-See [Cyber Security](https://github.com/vanHeemstraSystems/learning-security-cyber-security)
+See [Learning Security - Cyber Security](https://vanheemstrasystems.github.io/learning-security-cyber-security/)
 
 ### a) Map out the **User Journey(s)**.
 
