@@ -4,7 +4,7 @@ title: "Cyber Security"
 
 About this site
 
-We base our Theme: Master Cyber Security on Planning a [Minumum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
+We base our Theme: Master Cyber Security on Planning a [Minimum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
 
 ## 2. Find the **Opportunities**.
 
