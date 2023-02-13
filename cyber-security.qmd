@@ -3,3 +3,27 @@ title: "Cyber Security"
 ---
 
 About this site
+
+We base our Theme: Master Cyber Security on Planning a [Minumum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
+
+## 2. Find the **Opportunities**.
+
+### a) Map out the **User Journey(s)**.
+
+#### - Identify the **Users** (Actors) / Persona.
+
+#### - Identify the Story Ending (**End Goal**)
+
+#### - Identify all **Actions** the User must take to meet the End Goal.
+
+### b) Create a "**Pain and Gain**" Map for each Action.
+
+#### - Write down the **Action** the User completes when using the Product (i.e., good or service).
+
+#### - Write down the **Pain Points** for each Action.
+
+#### - Write down the **Gains** for each Action.
+
+### c) Summarize the Pains and Gains into **Opportunity Statements**.
+
+#### - Use "**How might we**" Statements or a similar method to summarize the Pains and Gains you have identified. 
