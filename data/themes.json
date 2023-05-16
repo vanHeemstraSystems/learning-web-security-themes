@@ -2,26 +2,82 @@
   "name": "themes",
   "children": [
     {
-      "name": "Security",
+      "name": "Web Security",
       "children": [
         {
-          "name": "Cyber Security",
+          "name": "Server-Side Web Security",
           "children": [
             {
-              "name": "Cloud Security",
-              "children": [
-                {
-                  "name": "Azure Cloud Security",
-                  "value": 50
-                },
-                {
-                  "name": "Google Cloud Security",
-                  "value": 50
-                }
-              ]
-            }
+              "name": "SQL Injection",
+              "value": 10
+            },
+            {
+              "name": "Authentication",
+              "value": 10
+            },
+            {
+              "name": "Directory Traversal",
+              "value": 10
+            },
+            {
+              "name": "Command Injection",
+              "value": 10
+            },
+            {
+              "name": "Business Logic Vulnerabilities",
+              "value": 10
+            },
+            {
+              "name": "Information Disclosure",
+              "value": 10
+            },
+            {
+              "name": "Access Control",
+              "value": 10
+            },
+            {
+              "name": "File Upload Vulnerabilities",
+              "value": 10
+            },
+            {
+              "name": "Server-Side Request Forgery",
+              "value": 10
+            },
+            {
+              "name": "XXE Injection",
+              "value": 10
+            }            
           ]
-        }
+        },
+        {
+          "name": "Client-Side Web Security",
+          "children": [
+            {
+              "name": "Cross-Site Scripting",
+              "value": 10
+            },
+            {
+              "name": "Cross-Site Request Forgery",
+              "value": 10
+            }, 
+            {
+              "name": "Cross-Origin Resource Sharing",
+              "value": 10
+            },
+            {
+              "name": "Clickjacking",
+              "value": 10
+            },
+            {
+              "name": "DOM-Based Vulnerabilities",
+              "value": 10
+            },
+            {
+              "name": "WebSockets",
+              "value": 10
+            }            
+          ]
+        }        
       ]
     }
   ]
