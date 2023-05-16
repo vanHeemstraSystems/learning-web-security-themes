@@ -3,14 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning Security - Themes"
+  title: "Learning Web Security - Themes"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: cyber-security.qmd
-        text: Cyber Security
+      - href: server-side-web-security.qmd
+        text: Server-Side Web Security
+      - href: client-side-web-security.qmd
+        text: Client-Side Web Security     
 
 format:
   html:
