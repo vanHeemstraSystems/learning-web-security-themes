@@ -1,14 +1,14 @@
 ---
-title: "Cyber Security"
+title: "Server-Side Web Security"
 ---
 
 About this site
 
-We base our Theme: Master Cyber Security on Planning a [Minimum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
+We base our Theme: Master Server-Side Web Security on Planning a [Minimum Viable Nothing (MVN)](https://github.com/vanHeemstraSystems/minimum-viable-nothing).
 
 ## 2. Find the **Opportunities**.
 
-See [Learning Security - Cyber Security](https://vanheemstrasystems.github.io/learning-security-cyber-security/)
+See [Learning Server-Side Web Security](https://vanheemstrasystems.github.io/learning-server-side-web-security/)
 
 ### a) Map out the **User Journey(s)**.
 
