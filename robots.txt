@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-security-themes/sitemap.xml
+Sitemap: https://github.com/vanHeemstraSystems/learning-web-security-themes/sitemap.xml

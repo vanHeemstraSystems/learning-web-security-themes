@@ -2,9 +2,30 @@
   {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
-    "title": "Learning Security - Themes",
+    "title": "Table of contents",
     "section": "",
-    "text": "Table of contents\n\nLearning Security - Themes"
+    "text": "Table of contents\n\nLearning Web Security - Themes"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Web Security - Themes",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nimport { renderChart } from \"@trebor/zoomable-voronoi-treemap\"\n\n\n\n\n\n\n\nmd`### Themes`\n\n\n\n\n\n\n\ndata = {\n  const flare = await d3.json(\n    \"https://raw.githubusercontent.com/vanHeemstraSystems/learning-web-security-themes/main/data/themes.json\"\n  );\n  return d3.hierarchy(flare).sum((d) =&gt; (d.children ? 0 : Math.random()));\n}\n\n\n\n\n\n\n\n__topicsChart = {\n  return renderChart({\n    data,\n    size: { width, height: 400 }\n  });\n}\n\n\n\n\n\n\n\nMaster Web Security"
+  },
+  {
+    "objectID": "server-side-web-security.html",
+    "href": "server-side-web-security.html",
+    "title": "Server-Side Web Security",
+    "section": "",
+    "text": "About this site\nWe base our Theme: Master Server-Side Web Security on Planning a Minimum Viable Nothing (MVN)."
+  },
+  {
+    "objectID": "server-side-web-security.html#find-the-opportunities.",
+    "href": "server-side-web-security.html#find-the-opportunities.",
+    "title": "Server-Side Web Security",
+    "section": "2. Find the Opportunities.",
+    "text": "2. Find the Opportunities.\nSee Learning Server-Side Web Security\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
   },
   {
     "objectID": "about.html",
@@ -12,26 +33,5 @@
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "cyber-security.html",
-    "href": "cyber-security.html",
-    "title": "Cyber Security",
-    "section": "",
-    "text": "About this site\nWe base our Theme: Master Cyber Security on Planning a Minimum Viable Nothing (MVN)."
-  },
-  {
-    "objectID": "cyber-security.html#find-the-opportunities.",
-    "href": "cyber-security.html#find-the-opportunities.",
-    "title": "Cyber Security",
-    "section": "2. Find the Opportunities.",
-    "text": "2. Find the Opportunities.\nSee Learning Security - Cyber Security\n\na) Map out the User Journey(s).\n\n- Identify the Users (Actors) / Persona.\n\n\n- Identify the Story Ending (End Goal)\n\n\n- Identify all Actions the User must take to meet the End Goal.\n\n\n\nb) Create a “Pain and Gain” Map for each Action.\n\n- Write down the Action the User completes when using the Product (i.e., good or service).\n\n\n- Write down the Pain Points for each Action.\n\n\n- Write down the Gains for each Action.\n\n\n\nc) Summarize the Pains and Gains into Opportunity Statements.\n\n- Use “How might we” Statements or a similar method to summarize the Pains and Gains you have identified."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning Security - Themes",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nimport { renderChart } from \"@trebor/zoomable-voronoi-treemap\"\n\n\n\n\n\n\n\nmd`### Themes`\n\n\n\n\n\n\n\ndata = {\n  const flare = await d3.json(\n    \"https://raw.githubusercontent.com/vanHeemstraSystems/learning-security-themes/main/data/themes.json\"\n  );\n  return d3.hierarchy(flare).sum((d) => (d.children ? 0 : Math.random()));\n}\n\n\n\n\n\n\n\n__topicsChart = {\n  return renderChart({\n    data,\n    size: { width, height: 400 }\n  });\n}\n\n\n\n\n\n\n\nMaster Cyber Security"
   }
 ]
